@@ -1,7 +1,7 @@
 # h1
 ## h2
 
-sample test
+sample test added info
 
 ```js
 var z = {x: 1, y: 2};
