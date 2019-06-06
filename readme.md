@@ -7,3 +7,5 @@ sample test added info
 var z = {x: 1, y: 2};
 console.log(z.x)
 ```
+
+addition
